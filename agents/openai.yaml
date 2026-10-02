@@ -1,0 +1,15 @@
+interface:
+  display_name: KI-Coaching Session Synthesizer
+  short_description: Turns raw coaching notes into session insights, follow-ups, and
+    next steps.
+  icon: 🪷
+  primary_color: '#4F46E5'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
